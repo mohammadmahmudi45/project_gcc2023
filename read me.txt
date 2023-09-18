@@ -1,0 +1,34 @@
+Nama : Mohammad Mahmudi
+NIP : 19830514 201001 1 018
+Asal Sekolah : SMKN 4 Malang
+Bidang Lomba : Media Pembelajaran Berbasis IT
+Judul Karya : SiJapran (Sistem Informasi Jagoan Algoritma Pemrograman)
+Media : Construct 3 (Free)
+Menu Aplikasi yang di sediakan dalam aplikasi adalah menu :
+	- Kompetensi
+	- Materi
+	- Video
+	- Evaluasi
+
+Kekurangan :
+- Dikarena menggunakan Construct 3 versi Free maka Event Sheet terbatas
+- tidak bisa menampilkan Audio sebagai backsound dan funsionalitas lainnya
+- Tampilan untuk menu materi pembelajaran, video dan Evaluasi terbatas
+
+Harapan : dapat di implementasikan pada Construct 3 Versi Berbayar.
+
+---------------------------------------------
+Langkah-langkah menjalan Media Pembelajaran:
+---------------------------------------------
+masuk pada akun google : mohammadmahmudi1983@gmail.com
+password : Mahmudi14051983
+kemudian 
+1. Buka tautan pada browser : https://editor.construct.net/
+2. Pilih Menu - Project - Open - CLOUD open
+3. Open Project - Select a service - pilih Google Drive
+4. Pilih file dengan nama : Media_Pembelajaran_Algoritma_Pemrograman.c3p
+5. Kemudian pilih tombol Open
+6. Tunggu beberapa saat untuk membuka file
+7. Untuk menjalankan aplikasi tekan tombol PREVIEW
+8. Aplikasi SiJapran siap di eksplorer 
+9. Terima Kasih.
